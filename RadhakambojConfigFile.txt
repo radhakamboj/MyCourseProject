@@ -88,14 +88,14 @@
                 "guid": "{51855cb2-8cce-5362-8f54-464b92b32386}",
                 "background": "#FFFFFF",
                 "backgroundImage": "D:\\Linux 2023\\Images\\purple1.jpg",
-                "backgroundImageOpacity": 0.95,
+                "backgroundImageOpacity": 0.50,
                 "backgroundImageStretchMode": "uniformToFill",
                 "cursorColor": "#650369",
                 "font": 
                 {
                     "face": "Cascadia Code"
                 },
-                "foreground": "#2f0131",
+                "foreground": "#1f0120",
                 "hidden": false,
                 "name": "Ubuntu",
                 "tabTitle": "Ubuntu"
